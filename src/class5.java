@@ -21,16 +21,16 @@ public class class5 {
         byte b4 = (byte)256;
         System.out.println("B4 is: " + b4);
 
-        float f = (float) 5.5;
+        // float f = (float) 5.5;
 
-        float f2 = 5.5f;
+        // float f2 = 5.5f;
 
-        double d = 10.5;
+        // double d = 10.5;
 
         char ch = 'a';
         System.out.println(ch);
 
-        int z = x + y;
+        // int z = x + y;
 
         int m = 5;
         int n = m++;

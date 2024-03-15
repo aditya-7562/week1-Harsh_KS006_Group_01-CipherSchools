@@ -21,11 +21,11 @@ public class class7 {
         byte b4 = (byte)256;
         System.out.println("B4 is: " + b4);
 
-        float f = (float) 5.5;
+        // float f = (float) 5.5;
 
-        float f2 = 5.5f;
+        // float f2 = 5.5f;
 
-        double d = 10.5;
+        // double d = 10.5;
 
         char ch = 'a';
         System.out.println(ch);
@@ -41,7 +41,7 @@ public class class7 {
         int e = c3 - 'a';
         System.out.println("E is: " + e);
 
-        int z = x + y;
+        // int z = x + y;
 
         int m = 5;
         int n = m++;
@@ -56,8 +56,8 @@ public class class7 {
 
         System.out.println("P is: " + p + ", Q is: " + q);
 
-        Integer x1 = new Integer(x);
-        System.out.println(x1);
+        // Integer x1 = new Integer(x);
+        // System.out.println(x1);
 
     }
 }
